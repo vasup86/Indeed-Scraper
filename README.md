@@ -2,7 +2,6 @@
 
 This project is an Indeed job posting scraper created using python. The projects is created using requests, Beautiful Soup, pandas and tkinter. 
 \
-\
 
 ![Screenshot (304)](https://user-images.githubusercontent.com/83378929/147377316-71e23a56-df9c-4aee-a383-89b9495dbf63.png)
 The GUI is created using the tkinter library. The interface has multiple fields to find specific job title and/or location realted postings to scrape. 
