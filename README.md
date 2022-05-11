@@ -1,12 +1,13 @@
 # Indeed-Scraper
 
-Searching for job posting on Indeed is a time-consuming and unpleasant experience. Each page has about 10 postings and finding a perfect positing can take a while. This project is an Indeed job posting scraper created using python and aims to solve this issue. The user enters their preferred job title, location, file name for the excel, and location and time to showcase revelant job positing. The application then takes these choices and generates an excel sheet with relevant job title, salary, company, job link and a brief description.
+Searching for job posting on Indeed is a time-consuming experience to find the perfect posting. Each page has about 10 postings and finding a perfect positing can take a while. This project is an Indeed job posting scraper created using python and aims to solve this issue. The user enters their preferred job title, location, file name for the excel, and location and time to showcase revelant job positing. The application then takes these choices and generates an excel sheet with relevant job title, salary, company, job link and a brief description.
 
-The projects is created using requests, Beautiful Soup, pandas and tkinter. <br/>
+The projects is created using requests, Beautiful Soup, pandas and tkinter. Requests is used to get the HTML of the website, Beautiful Soup is used to search through the HTML and find revelant information, pandas is used to create an excel sheet and tkinter is used to develop the frontend GUI interface.
 
+<br/>
 ![Screenshot (304)](https://user-images.githubusercontent.com/83378929/147377316-71e23a56-df9c-4aee-a383-89b9495dbf63.png)
 <br/>
-The GUI is created using the tkinter library. The interface has multiple fields to find specific job title and/or location realted postings to scrape. 
+The GUI is created using the tkinter library. The interface has multiple fields to find specific job title and/or location realted postings to scrape. Enter  prefered job title and/or location, file name, distance and positing date to get more revelant postings.
 <br/>
 <br/>
 <br/>
