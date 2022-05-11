@@ -6,7 +6,7 @@ The projects is created using requests, Beautiful Soup, pandas and tkinter. Requ
 
 ![Screenshot (304)](https://user-images.githubusercontent.com/83378929/147377316-71e23a56-df9c-4aee-a383-89b9495dbf63.png)
 <br/>
-The GUI is created using the tkinter library. The interface has multiple fields to find specific job title and/or location realted postings to scrape. Enter  prefered job title and/or location, file name, distance and positing date to get more revelant postings.
+The GUI is created using the tkinter library. The interface has multiple fields to find specific job title and/or location realted postings to scrape. Enter  prefered job title and/or location, file name, amount of pages to scrape, distance and positing date to get more revelant postings.
 <br/>
 <br/>
 <br/>
