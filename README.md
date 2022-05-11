@@ -1,6 +1,8 @@
 # Indeed-Scraper
 
-This project is an Indeed job posting scraper created using python. The projects is created using requests, Beautiful Soup, pandas and tkinter. <br/>
+Searching for job posting on Indeed is a time-consuming and unpleasant experience. Each page has about 10 postings and finding a perfect positing can take a while. This project is an Indeed job posting scraper created using python and aims to solve this issue. The user enters their preferred job title, location, file name for the excel, and location and time to showcase revelant job positing. The application then takes these choices and generates an excel sheet with relevant job title, salary, company, job link and a brief description.
+
+The projects is created using requests, Beautiful Soup, pandas and tkinter. <br/>
 
 ![Screenshot (304)](https://user-images.githubusercontent.com/83378929/147377316-71e23a56-df9c-4aee-a383-89b9495dbf63.png)
 <br/>
